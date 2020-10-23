@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  Hash.new({name: "Ori", team: "Yankees"})
+  {name: "Ori", team: "Yankees"}
 end
 
 def pioneer
